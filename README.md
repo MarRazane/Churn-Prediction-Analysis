@@ -1,12 +1,12 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Razane</h1>
-<h3 align="center">I'm Computer Science Student From Algeria</h3>
+<h3 align="center">I'm machine learning junior engineer From Algeria</h3>
 
  
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 Tensorflow Developer Certificate 
 
 
 - 📫 How to reach me **razane.marref07@gmail.com**
