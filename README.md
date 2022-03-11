@@ -1,4 +1,4 @@
-<a href="#"><img width="600" height="auto" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="175px"/></a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Razane</h1>
 <h3 align="center">I'm Computer Science Student From Algeria</h3>
